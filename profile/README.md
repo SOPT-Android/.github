@@ -6,7 +6,7 @@
 <p align="center">
     <Strong>Only for The SOPT Android Developers</Strong><br>
   You can do Study, Seminar, Project whatever in here! <br>
-  Please read the <a href="https://github.com/SOPT-Android/.github/blob/main/profile/README.md">Guide</a> and enjoy Android 💚
+  Please read the <a href="https://github.com/SOPT-Android/.github/blob/main/profile/README.md?plain=1">Guide</a> and enjoy Android 💚
 </p>
 
 <!-- 
