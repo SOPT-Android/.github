@@ -50,10 +50,14 @@ Organization 문의 사항이나 건의 사항이 있으면 수료 기수 안드
   <summary><b>[ 👑 Android Part Leaders ]</b> </summary>
   <div markdown="1">
 
- 
-| <img src="https://avatars.githubusercontent.com/u/54518925?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/108331578?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/93872496?v=4" width="100"> |
-| :-: | :-: | :-: | :-: |
-| [이현우](https://github.com/l2hyunwoo) | [김준서](https://github.com/giovannijunseokim) | [이태희](https://github.com/taeheeL) | [곽의진](https://github.com/KwakEuiJin) |
+| <img src="https://avatars.githubusercontent.com/u/16049092?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/54485132?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/55642709?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/45380072?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/70698151?v=4" width="100"> |
+| :-: | :-: | :-: | :-: | :-: |
+| [신승민](https://github.com/greedy0110) | [최호준](https://github.com/engineer-choi) | [강민구](https://github.com/kangmin1012) | [박진수](https://github.com/jinsu4755) | [문다빈](https://github.com/mdb1217) |
+
+
+| <img src="https://avatars.githubusercontent.com/u/56147398?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/54518925?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/108331578?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/98825364?v=4" width="100"> | <img src="https://avatars.githubusercontent.com/u/93872496?v=4" width="100"> |
+| :-: | :-: | :-: | :-: | :-: |
+| [이강민](https://github.com/kkk5474096) | [이현우](https://github.com/l2hyunwoo) | [김준서](https://github.com/giovannijunseokim) | [이태희](https://github.com/taeheeL) | [곽의진](https://github.com/KwakEuiJin) |
 
 
 
