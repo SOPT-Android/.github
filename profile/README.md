@@ -59,6 +59,10 @@ Organization 문의 사항이나 건의 사항이 있으면 수료 기수 안드
 | :-: | :-: | :-: | :-: | :-: |
 | [이강민](https://github.com/kkk5474096) | [이현우](https://github.com/l2hyunwoo) | [김준서](https://github.com/giovannijunseokim) | [이태희](https://github.com/taeheeL) | [곽의진](https://github.com/KwakEuiJin) |
 
+| <img src="https://avatars.githubusercontent.com/u/103172971?v=4" width="100"> |
+| :-: |
+| [배지현](https://github.com/jihyunniiii) |
+
 
 
   </div>
